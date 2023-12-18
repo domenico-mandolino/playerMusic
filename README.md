@@ -49,4 +49,4 @@ Utilisation
 
 Auteur
 
-    Votre Nom (@DomenicoMandolino)
+    @Domenico-Mandolino
