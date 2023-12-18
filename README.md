@@ -25,7 +25,7 @@ Ce projet est un lecteur audio simple implémenté en Python en utilisant les bi
 
    ```bash
     git clone https://github.com/domenico-mandolino/playerMusic.git
-   cd votre_projet
+   cd PlayerMusic
 
     Installez les dépendances :
 
@@ -37,7 +37,7 @@ Exécutez le lecteur audio :
 
 bash
 
-    python lecteur_audio.py
+    python PlayerMusic.py
 
 Utilisation
 
